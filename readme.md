@@ -27,7 +27,7 @@ A modern, responsive Book Finder app built with **Vite + React + Tailwind CSS** 
 
 ## 📸 Screenshot
 
-![Book Finder Screenshot]([https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon](https://github.com/vipingautam07/book-finder-task/blob/main/assets/image.png))
+![Book Finder Screenshot]((https://github.com/vipingautam07/book-finder-task/blob/main/assets/image.png))
 
 ---
 
